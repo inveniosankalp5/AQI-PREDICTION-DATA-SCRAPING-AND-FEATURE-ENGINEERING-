@@ -1,0 +1,2 @@
+# AQI-PREDICTION-DATA-SCRAPING-AND-FEATURE-ENGINEERING-
+This project aims to predict the air quality band for PM2.5 using present and historical climatic condition  data which has been scraped from a legitimate website. After employing suitable data cleaning, data  visualizing and feature engineering methods based on the observations made, the feasibility of using  different machine learning techniques such as regression models and gradient boosting regressors is analysed.
